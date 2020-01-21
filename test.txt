@@ -42,3 +42,8 @@ testing testing testing
 ░░░█░░░░░░░░░░░█▄█░░▄▀
 ░░░█░░░░░░░░░░░████▀
 ░░░▀▄▄▀▀▄▄▀▀▄▄▄█▀
+
+
+*Web Development
+*Software Tools Development
+*Software Security
