@@ -1,0 +1,69 @@
+Connor Smith                *=Notebook Questions
+3/09/2020
+8:01
+
+    Activity 2.1.1
+What is the CIA Triad?
+confidentiality integratity and availability
+
+Define the Confidentiality component of CIA and list some ways of protecting it.
+
+encryption
+making sure only sender and user can see message
+
+Define the Integrity component of CIA and list some ways of protecting it.
+
+Ensure data is never tampered with
+
+Define the Availability component of CIA and list some ways of protecting it.
+
+little downtowntime
+ask before updates
+available code
+
+--------------------------------------------------------------------------------------------------
+
+Draw one CIA triangle for one of the items and explain your reasoning.
+
+Social security number
+
+
+Confidentiality - Social security can be used to take peoples identity, so that information must stay encrypted and only the user and the reciever get the encrypt key
+
+Integrity -  data is protected from unauthorized changes to ensure that it is reliable and correct
+
+Availabiltiy - authorized users have access to the systems and the resources they need
+
+________________________________________________________________________________________________
+                       c                           
+                      / \
+                     /   \
+                    /     \
+                   /       \
+                  /         \
+                 /           \
+                I ____________A
+__________________________________________________________________________________________________
+---------------------------------------------------------------------------------------------------
+
+Things to Consider
+Confidentiality
+Who should have access to view each data category: internal users (Employee), external users (Customer), or both? 
+Does the data require encryption? Why or why not? (Recall that encryption can be used for sensitive and personal information.)
+Integrity
+Who should have access to modify the data: internal users (Employee), external users (Customer), or both?
+Availability
+What level of availability does this data require? Why?
+
+-----------------------------------------------------------------------------------------------------
+
+You can reduce the risk of exposing your data to risk and vulnerabilities by logically and/or physically separating categories of data. For example, you can physically separate website data used by the public from internal company information by placing them on different computers.
+
+---------------------------------------------------------------------------------------------------
+
+Using tools such as Disconnect and HTTPS Everywhere (from Unit 1) you can control aspects of your own personal CIA triad.
+
+---------------------------------------------------------------------------------------------------
+
+
+

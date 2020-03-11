@@ -1,0 +1,51 @@
+Connor Smith                *=Notebook Questions
+3/09/2020
+9:03
+
+    Activity 2.1.2
+
+Recall the facts of the CIA triad.
+
+Confidentiality->  Keeping sensitive information out of unwanted hands.
+
+Integrity-> Preserving the accuracy of information and validating its source.
+
+Availability->  Ensuring that information resources and services are accessible in a timely manner.
+
+
+-------------------------------------------------------------------------------------------------------
+
+Security professionals perform passive analysis on their own systems to strengthen the systems’ defense. Using this type of reconnaissance, they gain a deeper understanding of system weaknesses and vulnerabilities, they discover problems and then learn how to fix them.
+
+---------------------------------------------------------------------------------------------------
+
+Create AWS ACCOUNT 
+
+---------------------------------------------------------------------------------------------------
+
+E-commerce companies should follow these recommendations for their information architecture:
+Store private company information on a separate host, not connected to the web server.
+Store critical data on a separate host and connect to the web server for controlled and secured non-public access.
+
+----------------------------------------------------------------------------------------------------
+
+How can Bikes, Boards, and Beyond make use of this type of architecture?
+
+
+----------------------------------------------------------------------------------------------------
+
+From your analysis, do you think you’ve seen all of the servers and hosts that make up the Amazon e-commerce site? How does Amazon’s architecture affect the security of the site? Consider the hosts you’ve seen that might be private or public facing.
+
+
+
+
+
+
+Suppose you want to convert the Cybersecurity Training Site, CTS, to a real e-commerce site. 
+
+What port and web service should the website use? Why?
+Should the website architecture include more than one server? Why?
+
+
+
+

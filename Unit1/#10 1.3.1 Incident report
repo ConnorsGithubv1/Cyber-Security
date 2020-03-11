@@ -1,0 +1,73 @@
+Connor Smith
+3/3/2020
+8:33
+
+As you create your plan of action, consider the following:
+
+Detect:
+When and by which user did a suspicious file get to your desktop?
+Could there be other potentially malicious data on your computer? How can you find it?
+What applications and/or services could have been used to get these files there?
+Are there any files missing on the computer?
+Respond:
+What actions should you take to resolve the security threats?
+Recover:
+How do you recover any missing data?
+Identify
+The asset is your computer and its data.
+Protect:
+What are the security measures you should take to secure your computer and ensure this does not happen again?
+
+
+=====================================================================================================
+
+
+detected suspicous files at C:\ drive
+->
+    bat
+    .dll files
+
+
+Using Avg scanned the computer
+
+problem with Avg scan at 27% at 
+
+python background process running at 11% (not in use)
+
+no downloads from the internet on google
+
+scanned files on c: drive (nothing found)
+
+scanned /c:/windows (nothing found)
+
+scanned /c:/inetpub (one threat detected and secured)
+
+stopped python background proccess 
+
+restarted computer
+
+changed firewall/ system security settings
+
+===================================================================================================
+
+Thoroughly document every task that you perform for each Cybersecurity Lifecycle step, in particular, the Detect, Respond, Recover, and Protect steps. Another team should be able to read your notes and perform the same tasks you did to secure the computer.
+Describe anything you learned from your cyber team.
+Describe anything new (or forgotten!) that the team had to look up.
+
+
+=================================================================================
+
+
+What are the reasons that someone might want to access your computer or device without your consent?
+
+To get private information like your credit card and social security.
+
+Even if it’s a friend playing a joke on you, does that make it acceptable?
+
+No, cyber security is a serious thing and can lead to jail time.
+
+How does what you have learned in this unit apply on a larger scale to businesses and large organizations?
+
+Organizations need to protect their data. Hackers can bring down buisness, thats why its so important for cybersecurity.
+
+

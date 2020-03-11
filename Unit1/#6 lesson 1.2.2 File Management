@@ -1,0 +1,51 @@
+Connor Smith
+2/25/2020
+7:50
+
+file
+All data on a computer Data is stored in many different types of files.
+
+folder
+A special kind of file that contains other files. 
+
+process
+An application file that is currently executing (also called running) in the operating system.
+
+database
+A collection of files.
+
+web page	
+An HTML file.
+
+-------------------------------------------------------------------------------------------------
+
+Automatically opening a file that contains malicious software can cause the malware to be installed and/or executed on your computer. Rather than double-clicking a file that you are not familiar with, use the right-click menu to view or to edit a file.
+
+----------------------------------------------------------------------------------------------------
+
+.bat -runs a script in cmd
+.doc -shows a document file
+.txt -a plain text file
+.jpg -image
+.html -website
+
+Always show filename extensions and check them before you open a file.
+
+----------------------------------------------------------------------------------------------------
+
+What is your user name?
+connors
+
+As the user or administrator of a computer, you should know the other legitimate users; suspicious users can create suspicious files.
+
+----------------------------------------------------------------------------------------------------
+
+Describe how the file system features of “double-extensions”, hiding, and encryption can be used for both safe and malicious purposes.
+
+double extensions can open up unwanted files that can possible harm your computer. They are hidden in double extensions so it would be hard to even tell it was there.
+
+----------------------------------------------------------------------------------------------------
+
+If you keep a record of the installation dates of your installed applications, you can use the file’s Date modified property to find applications that you did not install, indicating they might be malware.
+
+Searching for executable scripts can help you find suspicious files.
